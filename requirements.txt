@@ -1,0 +1,5 @@
+text
+fastapi
+uvicorn
+edge-tts
+pydantic
